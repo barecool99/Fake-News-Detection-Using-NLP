@@ -14,4 +14,3 @@ Project Specs:
 * Enviornment: Jupyter Notebook IDE
 * Python Libraries: Pandas, Seaborn, NLTPK.
 * Classifier: MultiNomial Bayes Naives 
-
